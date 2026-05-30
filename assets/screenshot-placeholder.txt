@@ -1,0 +1,2 @@
+Place app screenshots in this folder.
+Suggested names: dashboard.png, charts.png, recap.png.
